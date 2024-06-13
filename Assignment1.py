@@ -10,7 +10,7 @@ if(num%2==0):
 else:
     print("odd")
 
-#Q.3
+#Q.3-Find Factorial
 def fact(n):
     if n == 0:
         return 1
